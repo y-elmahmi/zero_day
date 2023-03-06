@@ -1,10 +1,10 @@
-#*Vagrant - or - how to code in your local computer*
+# Vagrant - or - how to code in your local computer
 
-##Description :
+## Description :
 Sandboxes are great, but you can also do your ALX assessments on your local computer - having a virtual machine (VM) is the perfect tool for that.
 
 
-##General:
+## General:
 1. What is a virtual machine
 
 2. What is Vagrant
@@ -19,7 +19,7 @@ Sandboxes are great, but you can also do your ALX assessments on your local comp
 
 7. What does the command uname do
 
-##Tasks :
+## Tasks :
 * Task 0. Create and setup your Git and GitHub account
 * Task 1. Hello Ubuntu
 
